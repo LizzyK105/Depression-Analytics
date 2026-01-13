@@ -1,33 +1,60 @@
-# Depression-Analytics
+# 📊 Data Analyst Portfolio — Elizabeth Balogun
 
-**Overview**
+Hi, I’m **Elizabeth (Lizzy) Balogun**, an entry-level **Data Analyst** with a background in **Microbiology (HND)**.  
+I specialize in analyzing data, building dashboards, and translating insights into clear, actionable stories.
 
-The Depression Analytics Dashboard is a Power BI project designed to provide insights into patterns and demographics related to depression among patients. The dashboard visualizes relationships between mental health indicators and lifestyle factors, enabling healthcare professionals and analysts to make data-driven decisions.
+This repository contains analytics projects demonstrating my skills in **Power BI, Excel, SQL, and Python**.
 
-**Features**
+---
 
-**Comprehensive Patient Overview**
-Displays total patient count and key demographic breakdowns.
+## 🔧 Skills & Tools
 
-**Marital Status Analysis**
-Visualizes the distribution of patients by marital status — Married, Single, Widowed, and Divorced.
+- **Data Analysis & Cleaning:** Excel, Power Query  
+- **Data Visualization:** Power BI  
+- **Database Querying:** SQL  
+- **Programming:** Python (Pandas, Matplotlib – beginner)  
+- **Version Control:** Git & GitHub  
 
-**Employment Insights**
-Compares depression rates among employed and unemployed individuals.
+---
 
-**Mental Illness History**
-Examines correlations between depression and previous mental illness.
+## 📁 Featured Projects
 
-**Lifestyle Factors**
+### 🧠 Depression Analytics Dashboard
+**Tools:** Power BI  
+**Overview:**  
+This project analyzes depression-related data to identify patterns across demographics and key indicators.  
+It demonstrates dashboard design, KPI tracking, and insight storytelling.
 
-Physical Activity Levels: Sedentary, Moderate, and Active categories.
+📌 *Includes interactive visuals and summary insights.*
 
-Dietary Habits: Unhealthy, Moderate, and Healthy eating patterns.
+---
 
-# Tools & Technologies
+### 🦠 Typhoid Disease Analysis
+**Tools:** Power BI, Excel  
+**Overview:**  
+Analyzed reported typhoid cases and deaths by **gender** and **country** to uncover trends and public-health insights.
 
-**Power BI Desktop** – Dashboard creation and visualization
+📂 **Project Folder:** `Typhoid-Data-Analysis`
 
-**Data Modeling** – DAX calculations and relationships
+---
 
-**Data Sources** – Patient demographic and lifestyle datasets
+## 🎯 What This Portfolio Shows
+
+✔ Ability to clean and structure real-world data  
+✔ Strong dashboard and visualization skills  
+✔ Clear explanation of insights  
+✔ Passion for data-driven decision-making  
+
+---
+
+## 📫 Contact
+
+- **Email:** elizbalogun@gmail.com 
+- **LinkedIn:** www.linkedin.com/in/elizbalogun-balogun-k  
+- **GitHub:** https://github.com/LizzyK105  
+
+---
+
+⭐ *Thank you for viewing my portfolio. I’m open to internships, junior roles, and entry-level data analyst opportunities.*
+---
+

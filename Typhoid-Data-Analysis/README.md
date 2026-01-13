@@ -1,0 +1,58 @@
+# 📊 Data Analyst Portfolio — Elizabeth Balogun
+
+Hi, I’m **Elizabeth (Lizzy) Balogun**, an entry-level **Data Analyst** with a background in **Microbiology (HND)**.  
+I specialize in analyzing data, building dashboards, and translating insights into clear, actionable stories.
+
+This repository contains analytics projects demonstrating my skills in **Power BI, Excel, SQL, and Python**.
+
+---
+
+## 🔧 Skills & Tools
+
+- **Data Analysis & Cleaning:** Excel, Power Query  
+- **Data Visualization:** Power BI  
+- **Database Querying:** SQL  
+- **Programming:** Python (Pandas, Matplotlib – beginner)  
+- **Version Control:** Git & GitHub  
+
+---
+
+## 📁 Featured Projects
+
+### 🧠 Depression Analytics Dashboard
+**Tools:** Power BI  
+**Overview:**  
+This project analyzes depression-related data to identify patterns across demographics and key indicators.  
+It demonstrates dashboard design, KPI tracking, and insight storytelling.
+
+📌 *Includes interactive visuals and summary insights.*
+
+---
+
+### 🦠 Typhoid Disease Analysis
+**Tools:** Power BI, Excel  
+**Overview:**  
+Analyzed reported typhoid cases and deaths by **gender** and **country** to uncover trends and public-health insights.
+
+📂 **Project Folder:** `Typhoid-Data-Analysis`
+
+---
+
+## 🎯 What This Portfolio Shows
+
+✔ Ability to clean and structure real-world data  
+✔ Strong dashboard and visualization skills  
+✔ Clear explanation of insights  
+✔ Passion for data-driven decision-making  
+
+---
+
+## 📫 Contact
+
+- **Email:** your.email@example.com  
+- **LinkedIn:** https://www.linkedin.com/in/your-linkedin  
+- **GitHub:** https://github.com/LizzyK105  
+
+---
+
+⭐ *Thank you for viewing my portfolio. I’m open to internships, junior roles, and entry-level data analyst opportunities.*

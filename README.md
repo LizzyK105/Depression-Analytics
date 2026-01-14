@@ -1,12 +1,7 @@
-# 📊 Data Analyst Portfolio — Elizabeth Balogun
-
-Hi, I’m **Elizabeth (Lizzy) Balogun**, an entry-level **Data Analyst** with a background in **Microbiology (HND)**.  
-I specialize in analyzing data, building dashboards, and translating insights into clear, actionable stories.
-
-This repository contains analytics projects demonstrating my skills in **Power BI, Excel, SQL, and Python**.
-
+ 📊 Data Analyst Portfolio — Elizabeth Balogun  
+### Entry-Level Data Analyst | Power BI • Excel • SQL | Turning Data into Actionable Insights
 ---
-
+I analyze and visualize data to uncover patterns, support decision-making, and communicate insights clearly through dashboards and reports.
 ## 🔧 Skills & Tools
 
 - **Data Analysis & Cleaning:** Excel, Power Query  

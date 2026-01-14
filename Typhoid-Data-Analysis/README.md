@@ -17,7 +17,12 @@ To analyze reported typhoid cases and deaths by gender and country in order to i
 - Excel
 
 ---
+## 🔍 Key Insights
+- Female cases were reported higher than male cases
+- Certain countries recorded the highest number of reported cases
+- Mortality rates varied significantly across regions
 
+- 
 ## ❓ Key Questions Answered
 - Which gender recorded more typhoid cases?
 - Which countries had the highest reported cases?

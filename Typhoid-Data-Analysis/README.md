@@ -18,9 +18,9 @@ To analyze reported typhoid cases and deaths by gender and country in order to i
 
 ---
 ## 🔍 Key Insights
-- Female cases were reported higher than male cases
-- Certain countries recorded the highest number of reported cases
-- Mortality rates varied significantly across regions
+- **Higher female cases:** Analysis shows females reported more typhoid cases than males across multiple countries.
+- **Geographic hotspots:** Certain countries consistently recorded the highest number of cases, highlighting regions for targeted interventions.
+- **Mortality patterns:** Death rates varied significantly across regions, providing actionable insights for public health planning.
 
 - 
 ## ❓ Key Questions Answered

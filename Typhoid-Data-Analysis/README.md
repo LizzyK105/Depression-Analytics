@@ -1,58 +1,45 @@
-# 📊 Data Analyst Portfolio — Elizabeth Balogun
+ 🦠 Typhoid Disease Analysis
 
-Hi, I’m **Elizabeth (Lizzy) Balogun**, an entry-level **Data Analyst** with a background in **Microbiology (HND)**.  
-I specialize in analyzing data, building dashboards, and translating insights into clear, actionable stories.
-
-This repository contains analytics projects demonstrating my skills in **Power BI, Excel, SQL, and Python**.
+## 📌 Project Objective
+To analyze reported typhoid cases and deaths by gender and country in order to identify trends and highlight public health concerns.
 
 ---
 
-## 🔧 Skills & Tools
-
-- **Data Analysis & Cleaning:** Excel, Power Query  
-- **Data Visualization:** Power BI  
-- **Database Querying:** SQL  
-- **Programming:** Python (Pandas, Matplotlib – beginner)  
-- **Version Control:** Git & GitHub  
+## 📊 Dataset Information
+- Public health dataset
+- Includes reported cases, deaths, gender, and country data
+- Format: Excel / CSV
 
 ---
 
-## 📁 Featured Projects
-
-### 🧠 Depression Analytics Dashboard
-**Tools:** Power BI  
-**Overview:**  
-This project analyzes depression-related data to identify patterns across demographics and key indicators.  
-It demonstrates dashboard design, KPI tracking, and insight storytelling.
-
-📌 *Includes interactive visuals and summary insights.*
+## 🛠 Tools Used
+- Power BI
+- Excel
 
 ---
 
-### 🦠 Typhoid Disease Analysis
-**Tools:** Power BI, Excel  
-**Overview:**  
-Analyzed reported typhoid cases and deaths by **gender** and **country** to uncover trends and public-health insights.
-
-📂 **Project Folder:** `Typhoid-Data-Analysis`
+## ❓ Key Questions Answered
+- Which gender recorded more typhoid cases?
+- Which countries had the highest reported cases?
+- How do deaths vary across countries?
 
 ---
 
-## 🎯 What This Portfolio Shows
-
-✔ Ability to clean and structure real-world data  
-✔ Strong dashboard and visualization skills  
-✔ Clear explanation of insights  
-✔ Passion for data-driven decision-making  
+## 🔍 Key Insights
+- Female cases were reported higher than male cases
+- Certain countries recorded significantly higher case counts
+- Death distribution varies across regions
 
 ---
 
-## 📫 Contact
+## 📈 Dashboard Preview
+(Add Power BI dashboard screenshots here)
 
-- **Email:** your.email@example.com  
-- **LinkedIn:** https://www.linkedin.com/in/your-linkedin  
-- **GitHub:** https://github.com/LizzyK105  
+Example:
+![Typhoid Dashboard](Typhoid-Dashboard.png)
 
 ---
 
-⭐ *Thank you for viewing my portfolio. I’m open to internships, junior roles, and entry-level data analyst opportunities.*
+## 📌 Conclusion
+This project demonstrates my ability to analyze health data, create dashboards, and communicate insights clearly for decision-making.
+

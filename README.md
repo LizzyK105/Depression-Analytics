@@ -1,6 +1,5 @@
- 📊 Data Analyst Portfolio — Elizabeth Balogun  
-### Entry-Level Data Analyst | Power BI • Excel • SQL | Turning Data into Actionable Insights
----
+ # 📊 Data Analyst Portfolio — Elizabeth Balogun
+## Entry-Level Data Analyst | Power BI • Excel • SQL | Turning Data into Actionable Insights
 I analyze and visualize data to uncover patterns, support decision-making, and communicate insights clearly through dashboards and reports.
 ## 🔧 Skills & Tools
 
